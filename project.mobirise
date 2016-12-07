@@ -490,7 +490,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-788.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-789.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
