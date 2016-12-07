@@ -23,7 +23,7 @@
     "versionFirst": "3.10",
     "uniqCompNum": 18,
     "versionPublish": "3.10",
-    "publishType": "github",
+    "publishType": "local",
     "publishPath": "file:///C:/Users/Don/Documents/Dropbox/Public/DSP-webservice"
   },
   "pages": {
@@ -517,7 +517,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-780.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-781.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
