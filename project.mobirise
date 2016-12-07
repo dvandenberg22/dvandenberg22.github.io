@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schoonmaak.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -106,7 +106,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "header1",
@@ -279,7 +279,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -298,7 +298,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -325,40 +325,6 @@
         "meta_descr": "Het schoonmaakrooster van DSP."
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-5",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-89.png",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Schoonmaakrooster",
-          "text": "<p>Het complete rooster wordt hieronder weergegeven. &nbsp;<br>Schoonmaken van DSP bestaat uit de volgende activiteiten: vegen, d<span style=\"font-size: 1.07rem; line-height: 1.5;\">weilen/schrobben, s</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">pinnenwebben weghalen, a</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">lles afnemen (vensterbanken, gokkast, bovenkant v koelkasten, balken, banken, etc.), wc schoonmaken, koelkasten schoonmaken, onder de bar opruimen.&nbsp;</span></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -415,8 +381,11 @@
               "background-color": "#ffffff"
             }
           },
+          "_tags": [
+            "Theme"
+          ],
           "_name": "menu",
-          "_anchor": "menu-2",
+          "_anchor": "menu-a",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -428,7 +397,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -436,7 +405,7 @@
               "src": "@PROJECT_PATH@/assets/images/dsp-1-203x128-24.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "https://mobirise.com",
               "title": "DSP Ruurlo",
               "linkInNewWindow": false
             },
@@ -447,7 +416,41 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-89.png",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Schoonmaakrooster",
+          "text": "<p>Het complete rooster wordt hieronder weergegeven. &nbsp;<br>Schoonmaken van DSP bestaat uit de volgende activiteiten: vegen, d<span style=\"font-size: 1.07rem; line-height: 1.5;\">weilen/schrobben, s</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">pinnenwebben weghalen, a</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">lles afnemen (vensterbanken, gokkast, bovenkant v koelkasten, balken, banken, etc.), wc schoonmaken, koelkasten schoonmaken, onder de bar opruimen.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
           "_tags": [
@@ -490,7 +493,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-789.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/winter-2000x1125-7811.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -597,7 +600,7 @@
             "logo": true,
             "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -616,7 +619,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "header1",
