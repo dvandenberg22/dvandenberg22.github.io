@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "schoonmaak.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 47,
+    "uniqCompNum": 50,
     "versionPublish": "3.10.5"
   },
   "pages": {
@@ -166,6 +166,12 @@
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "B": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
           "_anchor": "features3-13",
           "_params": {
             "paddingTop": 2,
@@ -272,13 +278,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "B": {
-              "color": "#000000",
-              "font-size": "20px"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -444,7 +444,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20170105-141949151-2000x1125-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dspschoon-2000x1332.png",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -466,6 +466,19 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_anchor": "content1-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Klik <b><a href=\"https://www.dropbox.com/s/8q2em0ug4zm2ama/Schoonmaakrooster%20DSP%20%28alleen%20deze%20computer%29-agenda.ics?dl=0\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen!</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "video1",
           "_anchor": "video1-g",
           "_params": {
@@ -473,7 +486,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaak-1400x1529-63.jpg",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakv2-1400x1544.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -506,7 +519,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20161231-133144753-hdr-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161231-133144753-hdr-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -886,7 +899,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20161231-133144753-hdr-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161231-133144753-hdr-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
@@ -1382,7 +1395,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-20161231-133144753-hdr-2000x11252.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20161231-133144753-hdr-2000x11253.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
