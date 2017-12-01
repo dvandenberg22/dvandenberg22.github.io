@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "prijslijst.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -739,7 +739,7 @@
     "prijslijst.html": {
       "settings": {
         "order": 2,
-        "title": "DSP Ruurlo | Prijslijst",
+        "title": "DSP Ruurlo",
         "meta_descr": "Onze prijzen. "
       },
       "components": [
@@ -857,10 +857,10 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000"
             },
             ".mbr-section-lead": {
-              "color": "#ffffff"
+              "color": "#9c9a9a"
             }
           },
           "_tags": [
@@ -874,10 +874,10 @@
             "showButtons": true,
             "showArrow": true,
             "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/prijs-1278x720.png",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -889,7 +889,7 @@
           },
           "title": "Prijslijst",
           "text": "DSP bewijst al jaren dat plezier maken niet duur hoeft te zijn, met onze munten die te koop zijn voor € 0,80 per stuk.<br>Download hier (in pdf) onze muntprijzen en onze prijslijst voor dranken.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://dvandenberg22.github.io/dsp%20muntenprijs.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Muntprijs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://dvandenberg22.github.io/dsp%20prijslijst.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Drankprijs</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.dropbox.com/s/6l776ah8bn9okn3/dsp%20muntenprijs.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Muntprijs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.dropbox.com/s/jadkyiid3zt525n/dsp%20prijslijst.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Drankprijs</a>"
         },
         {
           "_styles": {
