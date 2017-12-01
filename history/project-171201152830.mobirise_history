@@ -19,21 +19,13 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": []
+      }
     },
     "versionFirst": "3.10",
     "uniqCompNum": 50,
     "versionPublish": "4.5.1",
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "favicon": "",
-    "noImageResize": "",
-    "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
-    "siteUrl": "",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -134,8 +126,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "header1",
@@ -145,7 +137,7 @@
               "color": "#b8312f"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#b8312f"
             }
           },
           "_anchor": "header1-1",
@@ -156,7 +148,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/abe56bf8e92a8ed53f6f4427-1600x900.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20170105-141949151-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -436,8 +428,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_styles": {
@@ -484,7 +476,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Klik <b><a href=\"https://www.dropbox.com/s/8q2em0ug4zm2ama/Schoonmaakrooster%20DSP%20%28alleen%20deze%20computer%29-agenda.ics?dl=0\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen! <b>Binnenkort volledig nieuw rooster!</b></p>"
+          "text": "<p>Klik <b><a href=\"https://www.dropbox.com/s/8q2em0ug4zm2ama/Schoonmaakrooster%20DSP%20%28alleen%20deze%20computer%29-agenda.ics?dl=0\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen!</p>"
         },
         {
           "_tags": [
@@ -656,8 +648,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "header1",
@@ -850,8 +842,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_inherit": "header1",
@@ -889,7 +881,7 @@
           },
           "title": "Prijslijst",
           "text": "DSP bewijst al jaren dat plezier maken niet duur hoeft te zijn, met onze munten die te koop zijn voor € 0,80 per stuk.<br>Download hier (in pdf) onze muntprijzen en onze prijslijst voor dranken.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.dropbox.com/s/6l776ah8bn9okn3/dsp%20muntenprijs.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Muntprijs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://www.dropbox.com/s/jadkyiid3zt525n/dsp%20prijslijst.pdf?dl=0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Drankprijs</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://dl.dropboxusercontent.com/u/6469142/DSP-vandaag/files/dsp%20muntenprijs.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Muntprijs</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://dl.dropboxusercontent.com/u/6469142/DSP-vandaag/files/dsp%20prijslijst.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Drankprijs</a>"
         },
         {
           "_styles": {
@@ -1189,8 +1181,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1228,7 +1220,7 @@
           "_params": {
             "showText": true
           },
-          "text": "...."
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         }
       ]
     },
@@ -1346,8 +1338,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">DSP Ruurlo</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Meer</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\"></a><br><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"prijslijst.html\">Prijslijst</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"huisregels.html\">Huisregels</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"schoonmaak.html\">Schoonmaakrooster</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Contact</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_inherit": "header1",
