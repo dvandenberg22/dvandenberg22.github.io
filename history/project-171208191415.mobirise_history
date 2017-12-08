@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "schoonmaak.html",
-    "name": "DSP Ruurlo",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,6 +25,8 @@
     "versionFirst": "3.10",
     "uniqCompNum": 50,
     "versionPublish": "4.5.1",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
@@ -482,7 +484,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Klik <b><a href=\"https://calendar.google.com/calendar/ical/ddrf4ma9h5g0352dcctlqoa160%40group.calendar.google.com/public/basic.ics\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen!&nbsp;</p>"
+          "text": "<p>Klik <b><a href=\"https://www.dropbox.com/s/8q2em0ug4zm2ama/Schoonmaakrooster%20DSP%20%28alleen%20deze%20computer%29-agenda.ics?dl=0\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen! <b>Binnenkort volledig nieuw rooster!</b></p>"
         },
         {
           "_tags": [
@@ -495,11 +497,12 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp-657x871.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakv2-1400x1544.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
               "title": "",
+              "linkInNewWindow": false,
               "active": true
             },
             "video": {
