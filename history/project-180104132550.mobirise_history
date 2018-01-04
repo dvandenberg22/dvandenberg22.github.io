@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "huisregels.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -25,6 +25,8 @@
     "versionFirst": "3.10",
     "uniqCompNum": 50,
     "versionPublish": "4.5.1",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
@@ -249,7 +251,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2018, DSP Ruurlo"
+          "text": "Copyright (c) 2018 DSP Ruurlo."
         }
       ]
     },
@@ -426,7 +428,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2018, DSP Ruurlo"
+          "text": "Copyright (c) 2018 DSP Ruurlo."
         }
       ]
     },
@@ -452,7 +454,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2018, DSP Ruurlo"
+          "text": "Copyright (c) 2018 DSP Ruurlo."
         },
         {
           "_styles": {
@@ -901,7 +903,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2018, DSP Ruurlo"
+          "text": "Copyright (c) 2018 DSP Ruurlo."
         },
         {
           "_tags": [
@@ -948,7 +950,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2018, DSP Ruurlo"
+          "text": "Copyright (c) 2018 DSP Ruurlo."
         },
         {
           "_styles": {
@@ -1411,7 +1413,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2018, DSP Ruurlo"
+          "text": "Copyright (c) 2018 DSP Ruurlo."
         }
       ]
     }
