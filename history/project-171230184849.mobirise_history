@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "huisregels.html",
+    "currentPage": "index.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -251,7 +251,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 DSP Ruurlo."
+          "text": "Copyright (c) 2017 DSP Ruurlo."
         }
       ]
     },
@@ -428,7 +428,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 DSP Ruurlo."
+          "text": "Copyright (c) 2017 DSP Ruurlo."
         }
       ]
     },
@@ -454,7 +454,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 DSP Ruurlo."
+          "text": "Copyright (c) 2017 DSP Ruurlo."
         },
         {
           "_styles": {
@@ -903,7 +903,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 DSP Ruurlo."
+          "text": "Copyright (c) 2017 DSP Ruurlo."
         },
         {
           "_tags": [
@@ -950,7 +950,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 DSP Ruurlo."
+          "text": "Copyright (c) 2017 DSP Ruurlo."
         },
         {
           "_styles": {
@@ -1080,8 +1080,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Huisregels",
-          "text": "Deze regels maken DSP leuk. Download ze hieronder als PDF.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://dvandenberg22.github.io/DSP_mixdrankjes_regels.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a> "
+          "text": "Met deze regels is DSP leuk. Download ze hieronder als PDF.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://dl.dropboxusercontent.com/u/6469142/DSP_mixdrankjes_regels.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Download</a> "
         },
         {
           "_styles": {
@@ -1413,7 +1413,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 DSP Ruurlo."
+          "text": "Copyright (c) 2017 DSP Ruurlo."
         }
       ]
     }
