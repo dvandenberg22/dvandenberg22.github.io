@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -28,19 +28,22 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 50,
-    "versionPublish": "4.5.1",
+    "versionPublish": "4.6.3",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
     "siteUrl": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on"
+    "sitemapSwitcherAuto": "on",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "schoonmaak.html": {
       "settings": {
-        "title": "DSP Ruurlo | Schoonmaakrooster",
+        "title": "Schoonmaakrooster | DSP Ruurlo",
         "meta_descr": "Het schoonmaakrooster van DSP.",
         "order": 4
       },
@@ -196,7 +199,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp-657x871.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp2-643x832.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -437,7 +440,7 @@
     "prijslijst.html": {
       "settings": {
         "order": 2,
-        "title": "DSP Ruurlo | Prijslijst",
+        "title": "Prijslijst | DSP Ruurlo",
         "meta_descr": "Onze prijzen. "
       },
       "components": [
@@ -933,7 +936,7 @@
     "huisregels.html": {
       "settings": {
         "order": 3,
-        "title": "DSP Ruurlo | Huisregels",
+        "title": "Huisregels | DSP Ruurlo",
         "meta_descr": "Met deze regels is DSP leuk. "
       },
       "components": [
@@ -1119,7 +1122,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "DSP Ruurlo | Welkom",
+        "title": "Welkom | DSP Ruurlo",
         "meta_descr": "Welkom bij DSP Ruurlo. \n\n",
         "header_custom": "",
         "footer_custom": "",
@@ -1170,7 +1173,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#549f09!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1288,14 +1291,13 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hr2-600x140.png",
+              "src": "@PROJECT_PATH@/assets/images/huisregels-600x333.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "huisregels.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title1": "Huisregels",
@@ -1320,19 +1322,18 @@
           "button2": "<a data-app-btn=\"true\" href=\"prijslijst.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Bekijk de prijslijst</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/prijslijst-600x168.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaak-600x287.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "title3": "",
           "subtitle3": "<b>Schoonmaakrooster</b><br><br>",
-          "caption3": "Het is de bedoeling dat de keet eens in de twee weken grondig wordt schoongemaakt door één official en een DSP-lid buiten de official.&nbsp;<br>Bekijk hier het schoonmaakrooster.<br><br>",
+          "caption3": "Het is de bedoeling dat de keet eens in de twee weken grondig wordt schoongemaakt door leden van DSP.&nbsp;<br>Bekijk hier het schoonmaakrooster.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"schoonmaak.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Bekijk het rooster</a>",
           "media4": {
             "image": {
