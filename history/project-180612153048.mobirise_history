@@ -38,15 +38,14 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "schoonmaak.html": {
       "settings": {
         "title": "Schoonmaakrooster | DSP Ruurlo",
         "meta_descr": "Het schoonmaakrooster van DSP.",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -440,7 +439,7 @@
     },
     "prijslijst.html": {
       "settings": {
-        "order": 1,
+        "order": 2,
         "title": "Prijslijst | DSP Ruurlo",
         "meta_descr": "Onze prijzen. "
       },
@@ -936,7 +935,7 @@
     },
     "huisregels.html": {
       "settings": {
-        "order": 2,
+        "order": 3,
         "title": "Huisregels | DSP Ruurlo",
         "meta_descr": "Met deze regels is DSP leuk. "
       },
@@ -1240,7 +1239,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc02224-2000x1126.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/abe56bf8e92a8ed53f6f4427-1600x900.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -1423,9 +1422,9 @@
     },
     "fotos-dsp.html": {
       "settings": {
-        "meta_descr": "Foto's van DSP Ruurlo. ",
+        "meta_descr": "Site Builder Description",
         "title": "Foto's | DSP Ruurlo",
-        "order": 4
+        "order": 1
       },
       "components": [
         {
@@ -1544,10 +1543,22 @@
             "paddingTop": 4,
             "paddingBottom": 4,
             "filterBgColor": false,
-            "bgColor": "#000000",
+            "bgColor": "fff",
             "showText": false,
             "filter": false,
             "images": [
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02226-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02226-2000x1126-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1601,12 +1612,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02235-1-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02235-1-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc02235-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02235-2000x1126-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1625,60 +1636,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02233-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02233-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc02232-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02232-2000x1126-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02229-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02229-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02234-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02234-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02224-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02224-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02236-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02236-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
