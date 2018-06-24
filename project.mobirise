@@ -28,7 +28,7 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 70,
-    "versionPublish": "4.7.1",
+    "versionPublish": "4.7.8",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
@@ -37,7 +37,8 @@
     "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": []
   },
   "pages": {
     "schoonmaak.html": {
