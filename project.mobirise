@@ -1717,7 +1717,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/lieke-1294x776.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img1283549659-640x480.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -1730,7 +1730,7 @@
             "overlayOpacity": 0.5
           },
           "title": "DSP-Quiz",
-          "text": "<p><span style=\"font-size: 1.07rem;\">Het juiste antwoord is b) Goudkunst</span><br></p><p>Meer informatie over deze oude serie vind je <a href=\"https://nl.wikipedia.org/wiki/Goudkust_(televisieserie)\" target=\"_blank\">hier&nbsp;</a><br><br>Bedankt voor het meespelen!&nbsp;</p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Het juiste antwoord is a) Maart 2011</span><br></p><p>De allereerste DSP-foto's vind je&nbsp;<a href=\"https://dvandenberg22.stackstorage.com/s/VJ31qJSX4KidHnI\" target=\"_blank\">hier&nbsp;</a><br><br>Bedankt voor het meespelen!&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Thema"
