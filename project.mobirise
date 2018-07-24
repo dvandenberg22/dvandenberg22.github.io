@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DSP-Quiz.html",
+    "currentPage": "schoonmaak.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -199,7 +199,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp4-629x829.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp5-629x833.png",
               "width": 1400,
               "link": "",
               "alt": "",
