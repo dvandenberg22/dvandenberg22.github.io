@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schoonmaak.html",
+    "currentPage": "index.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 70,
-    "versionPublish": "4.7.8",
+    "versionPublish": "4.8.2",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
@@ -1331,8 +1331,8 @@
               "title": ""
             }
           },
-          "title3": "",
-          "subtitle3": "<b>Schoonmaakrooster</b><br><br>",
+          "title3": "Schoonmaakrooster",
+          "subtitle3": "",
           "caption3": "Het is de bedoeling dat de keet eens in de twee weken grondig wordt schoongemaakt door leden van DSP.&nbsp;<br>Bekijk hier het schoonmaakrooster.<br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"schoonmaak.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Bekijk het rooster</a>",
           "media4": {
