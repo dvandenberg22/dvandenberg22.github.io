@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "schoonmaak.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -199,7 +199,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp7-631x975.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp8-631x927.png",
               "width": 1400,
               "link": "",
               "alt": "",
