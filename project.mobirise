@@ -186,7 +186,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Klik <b><a href=\"https://dvandenberg22.github.io/Schoonmaakrooster DSP_ddrf4ma9h5g0352dcctlqoa160@group.calendar.google.com.ics\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen!&nbsp;</p>"
+          "text": "<p>Klik <b><a href=\"https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen!&nbsp;</p>"
         },
         {
           "_tags": [
@@ -199,12 +199,13 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp8-631x927.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp9-644x931.png",
               "width": 1400,
-              "link": "",
-              "alt": "",
+              "link": "https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+              "alt": "DSP Schoonmaakrooster",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
