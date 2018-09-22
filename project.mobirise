@@ -186,7 +186,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Klik <b><a href=\"https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan de agenda van jouw telefoon toe te voegen!&nbsp;</p>"
+          "text": "<p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan jouw agenda toe te voegen!</p>"
         },
         {
           "_tags": [
