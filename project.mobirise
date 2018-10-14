@@ -199,13 +199,12 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp9-644x931.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp10-647x929.png",
               "width": 1400,
               "link": "https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
               "alt": "DSP Schoonmaakrooster",
               "title": "",
-              "active": true,
-              "linkInNewWindow": true
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
