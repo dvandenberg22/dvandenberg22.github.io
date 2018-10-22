@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schoonmaak.html",
+    "currentPage": "fotos-dsp.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -1552,18 +1552,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02226-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02226-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/dsc02217-2000x1126.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc02217-2000x1126-800x450.jpg",
                 "alt": "",
@@ -1588,6 +1576,18 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20181022-120035590-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181022-120035590-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/dsc02223-2000x1126.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc02223-2000x1126-800x450.jpg",
                 "alt": "",
@@ -1602,30 +1602,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/dsc02235-1-2000x1126.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc02235-1-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02232-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02232-2000x1126-800x450.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc02233-2000x1126.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc02233-2000x1126-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -1678,6 +1654,42 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/dsc02236-2000x1126.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc02236-2000x1126-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20181022-120927625-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181022-120927625-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-20181022-120927625-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20181022-120927625-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           },
