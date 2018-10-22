@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "fotos-dsp.html",
+    "currentPage": "index.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -1239,7 +1239,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc02224-2000x1126.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20181022-120108436-2000x1500.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
