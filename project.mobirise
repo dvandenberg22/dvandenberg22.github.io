@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schoon-test.html",
+    "currentPage": "schoonmaak.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -28,7 +28,7 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 78,
-    "versionPublish": "4.8.7",
+    "versionPublish": "4.8.10",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
@@ -199,7 +199,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp11-645x681.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp12-647x979.png",
               "width": 1400,
               "link": "https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
               "alt": "DSP Schoonmaakrooster",
