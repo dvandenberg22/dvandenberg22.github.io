@@ -28,7 +28,7 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 78,
-    "versionPublish": "4.8.10",
+    "versionPublish": "4.9.5",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Ook DSP deelt gratis koekjes uit! ",
@@ -186,7 +186,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan jouw agenda toe te voegen!</p>"
+          "text": "<p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar/ical/neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com/public/basic.ics\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan jouw agenda toe te voegen!</p>"
         },
         {
           "_tags": [
@@ -199,12 +199,13 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp13-657x977.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp14-631x687.png",
               "width": 1400,
-              "link": "https://calendar.google.com/calendar?cid=ZGRyZjRtYTloNWcwMzUyZGNjdGxxb2ExNjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ",
+              "link": "https://calendar.google.com/calendar/ical/neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com/public/basic.ics",
               "alt": "DSP Schoonmaakrooster",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
