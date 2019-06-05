@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "schoonmaak.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -186,7 +186,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar/ical/neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com/public/basic.ics\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan jouw agenda toe te voegen!</p>"
+          "text": "<p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar/embed?src=neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com&amp;ctz=Europe%2FAmsterdam\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan jouw agenda toe te voegen!</p>"
         },
         {
           "_tags": [
@@ -199,9 +199,9 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp15-643x819.png",
+              "src": "@PROJECT_PATH@/assets/images/schoonmaakdsp16-659x833.png",
               "width": 1400,
-              "link": "https://calendar.google.com/calendar/ical/neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com/public/basic.ics",
+              "link": "https://calendar.google.com/calendar/embed?src=neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com&ctz=Europe%2FAmsterdam",
               "alt": "DSP Schoonmaakrooster",
               "title": "",
               "active": true
