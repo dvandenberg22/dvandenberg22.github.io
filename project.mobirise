@@ -40,15 +40,17 @@
       "underlineLink": true,
       "opacity": "99",
       "text": "Ook DSP deelt gratis koekjes uit! ",
-      "textButton": "Agree"
+      "textButton": "Lekker!"
     },
     "siteUrl": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "sitemapSwitcherAuto": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcherAuto": true,
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "siteFonts": []
+    "siteFonts": [],
+    "": "on",
+    "sitemapSwitcher": false
   },
   "pages": {
     "schoonmaak.html": {
