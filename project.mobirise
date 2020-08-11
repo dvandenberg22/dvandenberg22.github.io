@@ -199,31 +199,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar/embed?src=neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com&amp;ctz=Europe%2FAmsterdam\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster direct aan jouw agenda toe te voegen!</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-g",
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/dspschoon-up-683x737.png",
-              "width": 1400,
-              "link": "https://calendar.google.com/calendar/embed?src=neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com&ctz=Europe%2FAmsterdam",
-              "alt": "DSP Schoonmaakrooster",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+          "text": "<p><b>Binnenkort verschijnt hier het nieuwe schoonmaakrooster.</b></p><p><br></p><p><br></p><p><br></p><p>Druk of klik&nbsp;<b><a href=\"https://calendar.google.com/calendar/embed?src=neb0gn06u47cq6374u40jjiaqk%40group.calendar.google.com&amp;ctz=Europe%2FAmsterdam\" target=\"_blank\" class=\"text-success\">hier</a></b> om het schoonmaakrooster (oud) direct aan jouw agenda toe te voegen!<br></p>",
+          "_styles": {
+            "P": {
+              "font-size": "17px"
             }
-          },
-          "text": "<p>De data weergegeven op het schoonmaakrooster zijn bindend. Een verantwoordelijke dient zelf vervanging te regelen wanneer hij / zij niet in staat is om voor een bepaalde datum het schoonmaakwerk uit te voeren. &nbsp;</p>"
+          }
         },
         {
           "_styles": {
