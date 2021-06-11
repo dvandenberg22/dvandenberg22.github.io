@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "schoonmaak.html",
+    "currentPage": "index.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -28,8 +28,8 @@
     },
     "versionFirst": "3.10",
     "uniqCompNum": 91,
-    "versionPublish": "4.12.0",
-    "favicon": "",
+    "versionPublish": "5.3.0",
+    "favicon": false,
     "noImageResize": "",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -42,7 +42,7 @@
       "text": "Ook DSP deelt gratis koekjes uit! ",
       "textButton": "Lekker!"
     },
-    "siteUrl": "",
+    "siteUrl": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": false,
     "sitemapSwitcherAuto": true,
@@ -51,7 +51,10 @@
     "siteFonts": [],
     "": "on",
     "sitemapSwitcher": false,
-    "imageResize": true
+    "imageResize": true,
+    "mbrsiteDomain": "dspruurlo",
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "schoonmaak.html": {
@@ -250,7 +253,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2020, DSP Ruurlo"
+          "text": "Copyright<b> </b>© 2021, DSP Ruurlo"
         }
       ]
     },
@@ -1410,7 +1413,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2020, DSP Ruurlo"
+          "text": "Copyright<b> </b>© 2021, DSP Ruurlo"
         }
       ]
     },
