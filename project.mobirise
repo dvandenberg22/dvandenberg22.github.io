@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "fotos-dsp.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -1764,7 +1764,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright<b> </b>© 2020, DSP Ruurlo",
+          "text": "Copyright<b> </b>© 2021, DSP Ruurlo",
           "_anchor": "footer1-1f"
         }
       ]
