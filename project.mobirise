@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "fotos-dsp.html",
+    "currentPage": "index.html",
     "name": "DSP Ruurlo",
     "theme": {
       "name": "mobirise3",
@@ -54,7 +54,7 @@
     "imageResize": true,
     "mbrsiteDomain": "dspruurlo",
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "schoonmaak.html": {
